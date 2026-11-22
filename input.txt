@@ -1,0 +1,8 @@
+Operatsion tizimlar fani
+Dasturlash tili C
+Pointerlar va dinamik xotira
+Fayllar bilan ishlash
+fgets funksiyasi satrni xavfsiz o'qiydi
+Qisqa qator
+Operatsion tizimlar laboratoriya mashg'uloti
+Oxirgi qator
